@@ -7,5 +7,7 @@
 
 ### Connect wth me
 [Website](https://www.sofiafranek.com/)
+
 [Linkedin](https://www.linkedin.com/in/sofia-franek/)
+
 [Medium](https://medium.com/@sofiafranek_)

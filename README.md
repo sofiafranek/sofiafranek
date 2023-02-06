@@ -13,3 +13,5 @@
 [Linkedin](https://www.linkedin.com/in/sofia-franek/)
 
 [Medium](https://medium.com/@sofiafranek_)
+
+[Instagram](https://www.instagram.com/codewithfi/)

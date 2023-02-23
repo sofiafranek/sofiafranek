@@ -3,7 +3,7 @@
 ### Current Projects
 *SofiaFranek* - I'm currently rebuilding my personal website to modernize and simplify the code structure with React and Next.
 
-*Download FREE ebook* - [Click here](https://www.sofiafranek.com/download-ebooks)
+*Download FREE ebooks* - [Click here](https://www.codewithfi.com/
 
 *Medium* - Creating approachable articles about technical concepts in Javascript and React, and in the future potentially more languages.
 

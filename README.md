@@ -5,8 +5,6 @@
 
 *Download FREE ebooks on my LinkedIn Featured*
 
-*Medium* - Creating approachable articles about technical concepts in Javascript and React, and in the future potentially more languages.
-
 ### Connect wth me
 [Website](https://www.sofiafranek.com/)
 

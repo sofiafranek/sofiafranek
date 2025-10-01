@@ -1,9 +1,6 @@
-# Hi! I'm Sofia Franek, a Front End Developer at Tangent.
-
-### Current Projects
-*SofiaFranek* - I'm currently rebuilding my personal website to modernize and simplify the code structure with React and Next.
+# Hi! I'm Sofia Franek, a Front End Developer specialising in React, Next.js + Typescript.
 
 ### Connect wth me
-[Website](https://www.sofiafranek.com/)
+[Website](https://www.sofiafranek.co.uk/)
 
 [Linkedin](https://www.linkedin.com/in/sofia-franek/)
